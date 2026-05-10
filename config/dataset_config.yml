@@ -1,0 +1,11 @@
+game1:
+  wd:
+    - wd1_relativepath
+    - wd2_relativepath
+  catdir: categorydata_relativepath
+
+game2:
+  wd:
+    - wd1_relativepath
+    - wd2_relativepath
+  catdir: categorydata_relativepath
