@@ -1,2 +1,2 @@
 # ytma
-YouTube Metadata Analytics Toolchain
+YouTube Metadata Analytics toolchain
